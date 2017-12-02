@@ -146,6 +146,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bellman-Ford.cpp" />
+    <ClCompile Include="BFS.cpp" />
+    <ClCompile Include="DFS.cpp" />
+    <ClCompile Include="Dijkstra.cpp" />
+    <ClCompile Include="DisjointSet.cpp" />
+    <ClCompile Include="Floyd.cpp" />
+    <ClCompile Include="interval_tree.cpp" />
+    <ClCompile Include="interval_tree2.cpp" />
+    <ClCompile Include="最小生成树.cpp" />
+    <ClCompile Include="Trie.cpp" />
+    <ClCompile Include="二分.cpp" />
+    <ClCompile Include="分治.cpp" />
+    <ClCompile Include="动规.cpp" />
+    <ClCompile Include="强连通分量.cpp" />
+    <ClCompile Include="桥和割点.cpp" />
+    <ClCompile Include="网络流.cpp" />
+    <ClCompile Include="计算几何.cpp" />
+    <ClCompile Include="迭代加深搜索.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
